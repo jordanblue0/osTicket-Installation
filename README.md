@@ -287,4 +287,5 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 </p>
 <br />
 <br />
-<h3 align="center"> Congrats, You've Finished Installing osTicket.</h3>
+<h3 align="center"> You have completed the Part 1 of 3 osTicket Install/Configuration/Ticket-Creation tutorial series.
+- Click [here](https://github) to move on to Part 2.
